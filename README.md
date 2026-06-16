@@ -1,16 +1,15 @@
 <div align="center">
 
-<h1>Rivoldy Makatita</h1>
+<h1>Full-stack developer</h1>
 
-<p><strong>Full-stack developer</strong><br />Indonesia</p>
+<p>Indonesian</p>
 
 </div>
 
 <br />
 
 <p align="center">
-  I make web apps and APIs — the kind of software that stays maintainable after launch.<br />
-  Into clean architecture, reliable shipping, and too much coffee.
+  I build web apps and APIs that don't fall apart after drop day.  <br>I'm on that clean architecture grind, shipping on time, and running off too much coffee.
 </p>
 
 <br />
@@ -25,11 +24,5 @@
 <br />
 
 <p align="center">
-  <a href="https://instagram.com/voldymakatita" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/64748B" height="22" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rivoldyvoldy@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/64748B" height="22" alt="Email" />
-  </a>
+  that's the loadout I'm rocking for now
 </p>
