@@ -38,21 +38,26 @@ Docker
 
 ### 📊 This Year in Code
 
-
+<div align="center">
+  <img src="github/metrics.isocalendar.svg" alt="Commit calendar" width="100%" />
+</div>
 
 ---
 
-### 🈷️ What I Write  ·  💡 When I Code
+### 🈷️ What I Write · 💡 When I Code
 
-
+<div align="center">
+  <img src="github/metrics.languages.svg" alt="Language breakdown" width="49%" />
+  <img src="github/metrics.habits.svg" alt="Coding habits" width="49%" />
+</div>
 
 ---
 
 ### 🏆 Unlocked
 
-
-
----
+<div align="center">
+  <img src="github/metrics.achievements.svg" alt="GitHub achievements" width="100%" />
+</div>
 
 ### 🤝 Let's Connect
 
