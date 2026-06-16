@@ -1,8 +1,5 @@
 
-
-[Typing SVG](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=111827&center=true&vCenter=true&width=520&lines=Hello+World%2C+I'm+Rivoldy+%F0%9F%91%8B;Fullstack+Developer;NestJS+%7C+Next.js+%7C+TypeScript+%7C+Prisma;I+build+things+that+actually+work.)](https://git.io/typing-svg)
 
 ---
 
@@ -20,52 +17,29 @@
 ### 🔧 Tech Stack
 
 **Frontend**  
-Next.js
-TypeScript
-Tailwind CSS
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**  
-NestJS
-TypeScript
-Prisma
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Database & Infra**  
-PostgreSQL
-Supabase
-Docker
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1A7A4E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-### 📊 This Year in Code
-
-<div align="center">
-  <img src="github/metrics.isocalendar.svg" alt="Commit calendar" width="100%" />
-</div>
-
----
-
-### 🈷️ What I Write · 💡 When I Code
-
-<div align="center">
-  <img src="github/metrics.languages.svg" alt="Language breakdown" width="49%" />
-  <img src="github/metrics.habits.svg" alt="Coding habits" width="49%" />
-</div>
-
----
-
-### 🏆 Unlocked
-
-<div align="center">
-  <img src="github/metrics.achievements.svg" alt="GitHub achievements" width="100%" />
-</div>
 
 ### 🤝 Let's Connect
 
-[Instagram](https://instagram.com/voldymakatita)
-[Email](mailto:rivoldyvoldy@gmail.com)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/voldymakatita)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rivoldyvoldy@gmail.com)
 
 ---
 
-📊 Metrics auto-updated daily · powered by [lowlighter/metrics](https://github.com/lowlighter/metrics) · Built with coffee and TypeScript ☕
+<div align="center">
+  <sub>Built with coffee and TypeScript ☕</sub>
+</div>
