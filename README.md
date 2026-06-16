@@ -1,45 +1,73 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=111827&center=true&vCenter=true&width=520&lines=Hello+World%2C+I'm+Rivoldy+%F0%9F%91%8B;Fullstack+Developer;NestJS+%7C+Next.js+%7C+TypeScript+%7C+Prisma;I+build+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&center=true&vCenter=true&width=480&lines=Rivoldy;Full-stack+developer;TypeScript+%C2%B7+Next.js+%C2%B7+NestJS;Building+things+that+hold+up.)](https://git.io/typing-svg)
 
----
+<br />
 
-### 🧑 Who am I?
+<sub>East Kalimantan, Indonesia · WITA (UTC+8)</sub>
 
-- 🔭 Full-stack developer — web apps, APIs, and the glue between them
-- 🛠️ Comfortable across the stack: **TypeScript · React/Next.js · Node/NestJS · PostgreSQL**
-- 🌏 Coding from **East Kalimantan, Indonesia**
-- 🎯 Philosophy: write code that future-me won't curse at
-- 🌱 Always learning — system design, clean architecture, and better ways to ship
-- ☕ Powered by coffee and way too many open browser tabs
+</div>
 
----
+<br />
 
-### 🔧 Tech Stack
+### About
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+```txt
+▸ Full-stack — web apps, APIs, and the glue between them
+▸ Stack     — TypeScript · React/Next.js · Node/NestJS · PostgreSQL
+▸ Focus     — system design, clean architecture, shipping reliably
+▸ Fuel      — coffee and too many browser tabs
+```
 
-**Backend**  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<br />
 
-**Database & Infra**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1A7A4E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Stack
 
----
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Interface</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=light"
+        alt="TypeScript, Next.js, React, Tailwind"
+      />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Server</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma&theme=light"
+        alt="NestJS, Node.js, Prisma"
+      />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Data & ops</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=postgres,supabase,docker&theme=light"
+        alt="PostgreSQL, Supabase, Docker"
+      />
+    </td>
+  </tr>
+</table>
 
-### 🤝 Let's Connect
+<br />
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/voldymakatita)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rivoldyvoldy@gmail.com)
+### Connect
 
----
+<p>
+  <a href="https://instagram.com/voldymakatita" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/0F172A" height="26" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rivoldyvoldy@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/0F172A" height="26" alt="Email" />
+  </a>
+</p>
+
+<br />
 
 <div align="center">
-  <sub>Built with coffee and TypeScript ☕</sub>
+  <sub>☕ · typescript-powered</sub>
 </div>
