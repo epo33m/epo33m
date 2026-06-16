@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F172A&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Rivoldy;Full-stack+developer;I+build+things+that+hold+up.)](https://git.io/typing-svg)
+<h1>Rivoldy Makatita</h1>
 
-<br />
-
-<sub>East Kalimantan, Indonesia</sub>
+<p><strong>Full-stack developer</strong><br />Indonesia</p>
 
 </div>
 
